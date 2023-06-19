@@ -64,3 +64,16 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Доп. информация по проекту
+
+Добавляем эти данные в .env файл
+
+'APP_KEY=<base64:scFvlpXdtMLhXd0vmWp15U3Y13t5iZYbWboNLlONF50=>'
+
+'DB_CONNECTION=<pgsql>
+DB_HOST=<127.0.0.1>
+DB_PORT=<5432>
+DB_DATABASE=<exampledb>
+DB_USERNAME=<exampleuser>
+DB_PASSWORD=<examplepassword>'
